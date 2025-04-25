@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "235854596711",
+    "project_id": "my-library-app-1a1f0",
+    "storage_bucket": "my-library-app-1a1f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235854596711:android:ee1fb77f0b1dc7b6bc22c2",
+        "android_client_info": {
+          "package_name": "com.example.maktabati_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_fYUDl8JQrijJy94X7l0IEqA_YBpjGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235854596711:android:88825fe35cf91186bc22c2",
+        "android_client_info": {
+          "package_name": "com.example.mylibrary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_fYUDl8JQrijJy94X7l0IEqA_YBpjGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235854596711:android:2f8278f903c455f5bc22c2",
+        "android_client_info": {
+          "package_name": "com.example.onboarding_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_fYUDl8JQrijJy94X7l0IEqA_YBpjGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

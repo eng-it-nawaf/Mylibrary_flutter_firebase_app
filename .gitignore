@@ -1,0 +1,37 @@
+# Flutter
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/ios/**
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Firebase
+**/firebase_options.dart
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# Build
+build/
+**/pubspec.lock
+**/.packages
+**/.dart_tool/
+**/pubspec_overrides.yaml
+
+# Environment variables
+.env
+.env.local
