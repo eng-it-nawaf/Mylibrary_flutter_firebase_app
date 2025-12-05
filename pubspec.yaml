@@ -1,0 +1,49 @@
+name: onboarding_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # الحزم الأساسية - بدون تحديد إصدار (سيأخذ الأحدث)
+  provider: ^6.1.5+1
+  get_it: ^9.2.0
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.3
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  image_picker: ^1.2.1
+  sqflite_common_ffi: ^2.3.6
+  firebase_core: 4.2.1
+  firebase_auth: 6.1.2
+  firebase_storage: 13.0.4
+  cloud_firestore: 6.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: STC
+      fonts:
+        - asset: assets/fonts/alfont_com_AlFont_com_SST-Arabic-Roman.ttf
+          weight: 400
+          style: normal
+
+  assets:
+    - assets/image1.png
+    - assets/image2.png
+    - assets/image3.png
+    - assets/login.png
+    - assets/fonts/alfont_com_AlFont_com_SST-Arabic-Roman.ttf
